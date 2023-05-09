@@ -170,6 +170,7 @@ Next, your interviewer wants to better understand your knowledge of basic SQL co
 
 &nbsp;
 
+
 ### Question 10
 
 For your final question, your interviewer explains that Sewati Financial Services cares about its clients’ trust, and this is an important responsibility for the data analytics team. They do this by:
@@ -186,3 +187,296 @@ For your final question, your interviewer explains that Sewati Financial Service
 * Bias
 
 > This describes data privacy, which involves protecting an individuals’ private data.
+
+
+#######################################################################
+#######################################################################
+#######################################################################
+
+challenge version b
+
+
+1.
+Question 1
+Scenario 1, questions 1-5
+
+You’ve been working at a data analytics consulting company for the past six months. Your team helps restaurants use their data to better understand customer preferences and identify opportunities to become more profitable. 
+
+To do this, your team analyzes customer feedback to improve restaurant performance. You use data to help restaurants make better staffing decisions and drive customer loyalty. Your analysis can even track the number of times a customer requests a new dish or ingredient in order to revise restaurant menus. 
+
+Currently, you’re working with a vegetarian sandwich restaurant called Garden. The owner wants to make food deliveries more efficient and profitable. To accomplish this goal, your team will use delivery data to better understand when orders leave Garden, when they get to the customer, and overall customer satisfaction with the orders.
+
+Before project kickoff, you attend a discovery session with the vice president of customer experience at Garden. He shares information to help your team better understand the business and project objectives. As a follow-up, he sends you an email with datasets. 
+
+Click below to read the email:
+
+And click below to access the datasets:
+
+
+Reviewing the data enables you to describe how you will use it to achieve your client’s goals. First, you notice that all of the data was collected by Garden employees using their own resources. What type of data does this describe?
+
+1 / 1 point
+
+Nominal data
+
+
+Third-party data
+
+
+[x] First-party data
+
+
+Qualitative data
+
+Correct
+This describes first-party data, which is collected by an individual or group using their own resources.
+
+2.
+Question 2
+Scenario 1 continued
+
+Next, you review the customer satisfaction survey data. To use the template for the customer satisfaction survey data, click the link below and select “Use Template.” 
+
+Link to template: Customer Satisfaction Survey data
+
+OR
+
+If you don’t have a Google account, download the CSV file directly from the attachment below.
+
+
+
+You notice that the data in column E is an example of Boolean data. Why did you come to this conclusion?
+
+1 / 1 point
+
+It is organized in a certain format, such as rows and columns.
+
+
+It has each subject in multiple rows.
+
+
+[x] It has only two possible values. 
+
+
+It is qualitative data with a set order or scale.
+
+Correct
+Boolean data has only two possible values, such as yes or no. 
+
+3.
+Question 3
+Scenario 1 continued
+
+Now, you review the data on delivery times and the distance of customers from the restaurant.
+
+To use the template for the dataset, click the link below and select “Use Template.” 
+
+Link to template: Delivery Times/Distance
+
+OR
+
+If you don’t have a Google account, download the CSV file directly from the attachment below.
+
+
+
+The data in column E shows the duration of deliveries from Garden to customers. What type of data is this? Select all that apply.
+
+0.5 / 1 point
+
+[x] Quantitative data
+
+Correct
+This is an example of discrete data, which is counted and has a limited number of values. It is also quantitative data, which is specific and measures numerical facts.
+
+
+Qualitative data
+
+
+Discrete data
+
+
+Continuous data
+
+This should not be selected
+Review the video on data formats for a refresher.
+
+4.
+Question 4
+Scenario 1 continued
+
+The next thing you review is the file containing pictures of sandwich deliveries over a period of 30 days. What type of data is this?
+
+1 / 1 point
+
+Ordinal
+
+
+[x] Unstructured
+
+
+Discrete
+
+
+Relational
+
+Correct
+This is unstructured data, which is not organized in an easily identifiable manner.
+
+5.
+Question 5
+Scenario 1 continued
+
+Now that you’re familiar with the data, you want to build trust with the team at Garden. You decide to impress them by taking the initiative to reach out to your social media followers. You explain that Garden is a new client, and you show them the pictures of Garden’s sandwich deliveries from the client file. Then, you ask them if they have any photos of sandwich deliveries that you can evaluate. 
+
+This is an example of going above and beyond expectations and a great way to build trust.
+
+1 / 1 point
+
+True
+
+
+[x] False
+
+Correct
+Building trust involves not sharing private or sensitive client information.
+
+6.
+Question 6
+Scenario 2, questions 6-10
+
+You’ve completed this program and are interviewing for a junior data scientist position at a company called Sewati Financial Services. 
+
+Click below to review the job description:
+
+So far, you’ve successfully completed the first interview with a recruiter. They arrange your second interview with the team at Sewati Financial Services. 
+
+Click below to read the email from the human resources director:
+
+You arrive 15 minutes early for your interview. Soon, you are escorted into a conference room, where you meet Kai Harvey, the senior manager of strategy. After welcoming you, he begins the behavioral interview. 
+
+Consider and respond to the following question. Select all that apply.
+
+Our data analytics team often surveys clients to get their feedback. If you were on the team, how would you ensure the results do not favor a particular person, group of people, or thing?
+
+0.75 / 1 point
+
+[x] Give participants enough time to answer each survey question.
+
+
+[x] Make sure the wording of the survey question does not encourage a specific response from participants. 
+
+Correct
+The way questions are written, the amount of time given to answer each question, and the inclusivity of the participants can help ensure survey results are unbiased. 
+
+
+[x] Ensure the survey sample represents the population as a whole.
+
+Correct
+There are several factors that influence bias in survey results. To minimize bias, consider the way questions are written, the amount of time given to answer each question, and inclusivity of participants. 
+
+
+Instruct participants to share their name and contact information. 
+
+You didn’t select all the correct answers
+7.
+Question 7
+Scenario 2 continued
+
+Consider and respond to the following question. Select all that apply.
+
+Our data analytics team often uses external data. Where can you access useful external data?
+
+1 / 1 point
+
+Sewati Financial Services website
+
+
+[x] A public database
+
+Correct
+Data analysts access external data from open-data websites and public databases.
+
+
+[x] An open-data website
+
+Correct
+Data analysts access external data from open-data websites and public databases.
+
+
+Sewati Financial Services database in the cloud
+
+8.
+Question 8
+Scenario 2 continued
+
+Consider and respond to the following question.
+
+Our analysts often work within the same spreadsheet, but for different purposes. How could filtering help in this situation?
+
+1 / 1 point
+
+[x] Filtering simplifies a spreadsheet by only showing you the information you need
+
+
+Filtering enables you to sort the data in a meaningful order
+
+
+Filtering enables you to highlight the header row
+
+
+Filtering encrypts the spreadsheet so only you can access it
+
+Correct
+Filtering enables data analysts to show only the data that they need. This makes it easier for data analysts on the same team to use the same dataset for different purposes. 
+
+9.
+Question 9
+Scenario 2 continued
+
+Next, your interviewer wants to better understand your knowledge of basic SQL commands. He asks: How would you write a query that retrieves only data about people who work in Boise from the Clients table in our database?
+
+1 / 1 point
+
+
+SELECT *
+FROM Clients
+WHERE work_location = "Boise"
+
+
+
+
+
+
+
+
+
+Correct
+To write a query that retrieves only data about people who work in Boise from the Clients table, type SELECT * FROM Clients WHERE work_location-’Boise’’. 
+
+10.
+Question 10
+Scenario 2 continued
+
+For your final question, your interviewer explains that Sewati Financial Services needs its clients’ trust, and this is an important responsibility for the data analytics team. 
+
+He asks you to identify which data analytics practice involves preserving a data subject’s information and activity any time a data transaction occurs.
+
+0 / 1 point
+
+Encryption
+
+
+[x] Data privacy THIS SHOULD BE RIGHT
+
+
+Bias
+
+
+Sharing permissions
+
+Incorrect
+Review the section on preserving a data subject’s information and activity for a refresher.
+
+
+
+
